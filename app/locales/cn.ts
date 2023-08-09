@@ -258,7 +258,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: " 最新网站存活: https://chatgpt.chenjiarui.asia/ , \n 本网站永久免费公益，如果本网站可以帮到你，是我莫大的荣幸 \n 如果你想要支持本网站、支持我的话可以随便扫给我一些，几分几毛也可以，非常非常感谢您的心意，真挚地感谢，谢谢~ \n https://files.catbox.moe/a4pq8z.jpg ",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
